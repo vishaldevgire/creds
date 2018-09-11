@@ -4,4 +4,4 @@ set -x
 
 echo "doing some signing"
 mkdir -p output
-cp -rf $1 $2
+cp -rfv $1 $2
